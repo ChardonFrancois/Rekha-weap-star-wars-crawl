@@ -20,7 +20,19 @@ body {
     display: flex;
     flex-direction: column;
 }
+nav{
+    border: 4px solid rgb(9, 13, 241);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 
+nav> ul{
+    border: 4px solid rgb(237, 241, 9);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
 
 header{
     border: 4px solid lightseagreen;
