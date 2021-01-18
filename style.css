@@ -10,6 +10,7 @@ body{
     font-size: 5vw;
     line-height: 1.3;
     overflow: hidden;
+    background-image: url(photo/font-etoile.jpg);
 }
 .contenu{
     margin: 0 auto;
@@ -29,7 +30,7 @@ body{
     left: 13%;
     right: 13%;
     height: 100%;
-    animation: play 20s infinite;
+    animation: play 25s infinite;
 }
 .head{
     margin-bottom: 5rem;
