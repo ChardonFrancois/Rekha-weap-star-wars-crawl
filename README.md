@@ -1,9 +1,9 @@
 # Star-wars-crawl-weap
-# Animations-drill
-Je vais m'initié à l'animation avec du css.
+
+François et moi allons essayer de faire une animation basé sur star wars.
 
 ## Cadre:
-Cet exercice est effectué dans le cadre de ma deuxième semaine de formation au centre de formation BECODE. 
+Cet exercice est effectué dans le cadre de notre troisième semaine de formation au centre de formation BECODE. 
 Nous sommes en janvier 2021.
 
 ## Technos utilisées:
@@ -11,23 +11,24 @@ HTML5
 CSS3
 
 ## Auteurs: 
-Juste moi :)
+François Chardon
+Rekha Lambotte
 
 ## Instructions:
-Pour cet exercice je vais apprendre à faire des animations avec les propiétés animation et transition.
+Le but est de faire défiler du texte comme dans le films Star Wars.
+Le délai de 1/2 journée a été accordé.
 
 ## But à atteindre :
-![animation avec css](image/goal-anim2.gif)
-![animation avec css](image/goal-anim3.gif)
-![animation avec css](image/goal-anim4.gif)
+![goal star wars](image/goal-star-wars.jpg)
+
 
 ## Statut:
-terminé
+en cours
 
 ## Projet déployé: 
-Lien Github : https://github.com/RekhaLambotte/animations-drill.git
+Lien Github : 
 
-Lien web: https://rekhalambotte.github.io/animations-drill/.
+Lien web: 
 
 ## Remarques:
 
