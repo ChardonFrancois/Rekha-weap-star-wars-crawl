@@ -26,9 +26,9 @@ Le délai est de 1/2 journée.
 en cours
 
 ## Projet déployé: 
-Lien Github : 
+Lien Github : https://github.com/ChardonFrancois/Rekha-weap-star-wars-crawl.git
 
-Lien web: 
+Lien web: https://chardonfrancois.github.io/Rekha-weap-star-wars-crawl/
 
 
 
