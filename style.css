@@ -62,3 +62,37 @@ p{
         opacity: 0;
     }
 }
+
+.a-long-time-ago{
+    font-size: 32px;
+    color: blue;
+    opacity: 0;
+    animation-delay: 2s;
+    animation-duration: 2s;
+    animation-name: a-long-time;
+    animation-timing-function: ease-out;
+    
+
+}
+@keyframes a-long-time{
+    0%{
+        opacity: 0;
+    }
+    20% {
+        opacity: 1;
+    }
+    80% {
+        opacity: 1;
+    }
+    100%{
+        opacity: 0;
+    }
+}
+span{
+    display: block;
+    text-align: center;
+    margin-top: 25%;
+    padding: 20px;
+    font-size: 50px;
+
+}
